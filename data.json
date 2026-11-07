@@ -1,0 +1,17 @@
+{
+    "chart_title": "Weekly Study Hours by Subject",
+    "data_points": [
+        {
+            "label": "Calculus",
+            "value": 8
+        },
+        {
+            "label": "Linear Algebra",
+            "value": 7
+        },
+        {
+            "label": "Computer Science",
+            "value": 10
+        }
+    ]
+}
